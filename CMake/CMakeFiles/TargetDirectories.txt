@@ -1,0 +1,6 @@
+/home/erick/Arquitectura/juegos/Car-racing-game/CMake/CMakeFiles/rebuild_cache.dir
+/home/erick/Arquitectura/juegos/Car-racing-game/CMake/CMakeFiles/main.dir
+/home/erick/Arquitectura/juegos/Car-racing-game/CMake/CMakeFiles/edit_cache.dir
+/home/erick/Arquitectura/juegos/Car-racing-game/CMake/libs/CMakeFiles/rebuild_cache.dir
+/home/erick/Arquitectura/juegos/Car-racing-game/CMake/libs/CMakeFiles/extLibs.dir
+/home/erick/Arquitectura/juegos/Car-racing-game/CMake/libs/CMakeFiles/edit_cache.dir

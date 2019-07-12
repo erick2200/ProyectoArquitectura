@@ -1,0 +1,17 @@
+# Build system
+bin
+**/build/*
+*/build/*
+/build/**
+
+**/.vscode/**
+*/.vscode/**
+/.vscode/**
+
+gmon.out
+*.stats
+Thumbs.db
+.DS_Store
+
+# Project specific
+#
